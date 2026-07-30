@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Selected software and engineering work by Kevin Blum, including Morass and Effigy Awards."
+    />
+    <meta name="theme-color" content="#18201d" />
+    <title>Selected work — Kevin Blum</title>
+    <link rel="canonical" href="https://kevinblum.dev/work.html" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Selected work — Kevin Blum" />
+    <meta
+      property="og:description"
+      content="Morass, Effigy Awards, and other software work by Kevin Blum."
+    />
+    <meta property="og:url" content="https://kevinblum.dev/work.html" />
+    <meta
+      property="og:image"
+      content="https://kevinblum.dev/images/kevin-blum-social-v4.png"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="stylesheet" href="assets/css/site.css" />
+    <script type="module" src="assets/js/site.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a class="wordmark" href="/">Kevin Blum</a>
+      <nav aria-label="Primary navigation">
+        <a aria-current="page" href="/work.html">Work</a>
+        <a href="/photography.html">Photography</a>
+        <a href="/#about">About</a>
+      </nav>
+    </header>
+
+    <main id="main" class="shell work-page">
+      <header class="page-intro">
+        <p class="eyebrow">Selected work</p>
+        <h1>A few things I have worked on.</h1>
+        <p>
+          Most of my professional work is private. These are the things I can
+          show: public foundations, product experiments, and the decisions that
+          make them useful.
+        </p>
+      </header>
+
+      <article class="case-study" id="morass">
+        <header class="case-study-heading">
+          <div>
+            <p class="project-index">01 / open-source interface system</p>
+            <h2>Morass</h2>
+          </div>
+          <div class="case-study-links">
+            <a class="text-link" href="https://effigy-analytics.com/morass"
+              >Live showcase →</a
+            >
+            <a
+              class="text-link"
+              href="https://github.com/effigy-analytics/morass"
+              >GitHub →</a
+            >
+          </div>
+        </header>
+
+        <div class="case-study-feature">
+          <div class="morass-specimen morass-specimen--large" aria-hidden="true">
+            <span class="specimen-label">MORASS / PRODUCT INTERFACES</span>
+            <div class="specimen-window">
+              <aside>
+                <strong>Workbench</strong>
+                <span class="is-active">Overview</span>
+                <span>Activity</span>
+                <span>Settings</span>
+              </aside>
+              <div>
+                <span class="specimen-plaque">SYSTEM STATUS</span>
+                <strong>Everything has a place.</strong>
+                <p>Typed structure, accessible states, and product-owned character.</p>
+                <div class="specimen-progress"><i></i></div>
+              </div>
+            </div>
+          </div>
+          <div class="case-study-summary">
+            <p class="eyebrow">The problem</p>
+            <p>
+              Effigy products needed shared interface structure without
+              becoming identical. Repeating app shells, forms, status language,
+              focus behavior, and theme work in every product was slow and easy
+              to get subtly wrong.
+            </p>
+            <p class="eyebrow">The approach</p>
+            <p>
+              Morass provides interface primitives and documented contracts.
+              Products keep their domain language and visual identity while
+              sharing behavior, tokens, layouts, and release tooling.
+            </p>
+          </div>
+        </div>
+
+        <dl class="evidence-grid">
+          <div><dt>Public release</dt><dd>0.9.0 on npm</dd></div>
+          <div><dt>Compatibility</dt><dd>React 18 and 19</dd></div>
+          <div><dt>Quality boundary</dt><dd>Types, tests, contrast, package integrity</dd></div>
+          <div><dt>My contribution</dt><dd>Architecture, contracts, implementation, delivery</dd></div>
+        </dl>
+      </article>
+
+      <article class="case-study" id="effigy-awards">
+        <header class="case-study-heading">
+          <div>
+            <p class="project-index">02 / predictions application</p>
+            <h2>Effigy Awards</h2>
+          </div>
+          <span class="status">Private pilot · release work underway</span>
+        </header>
+
+        <div class="case-study-feature case-study-feature--reverse">
+          <div class="awards-workspace" aria-hidden="true">
+            <div class="awards-workspace-bar">
+              <strong>Effigy Awards</strong><span>Academy Awards 2026</span>
+            </div>
+            <div class="awards-workspace-progress"><i></i></div>
+            <span class="specimen-plaque">BEST PICTURE / 01 OF 02</span>
+            <h3>Who will win?</h3>
+            <div class="awards-columns">
+              <div>
+                <strong>EXPECT</strong>
+                <span class="is-selected">Orchard at Dusk</span>
+                <span>The Small Hours</span>
+                <span>The Weather House</span>
+              </div>
+              <div>
+                <strong>WANT</strong>
+                <span>Orchard at Dusk</span>
+                <span class="is-wanted">The Small Hours</span>
+                <span>The Weather House</span>
+              </div>
+            </div>
+          </div>
+          <div class="case-study-summary">
+            <p class="eyebrow">The idea</p>
+            <p>
+              Awards predictions usually collapse two different judgments:
+              what someone believes will win and what they hope will win.
+              Effigy Awards preserves both, then turns the gap into a better
+              ballot, leaderboard, and conversation.
+            </p>
+            <p class="eyebrow">What is real</p>
+            <p>
+              The React application supports shows, prediction workspaces,
+              personal ballots, leaderboards, and an operator workflow. Current
+              work is focused on identity, data preservation, and a guarded
+              standalone release.
+            </p>
+          </div>
+        </div>
+
+        <dl class="evidence-grid">
+          <div><dt>Interface</dt><dd>React, TypeScript, Morass</dd></div>
+          <div><dt>Platform</dt><dd>AWS serverless application</dd></div>
+          <div><dt>Product idea</dt><dd>Expect versus want</dd></div>
+          <div><dt>My contribution</dt><dd>Product, interface, architecture, delivery</dd></div>
+        </dl>
+      </article>
+
+      <section class="workbench-section" id="workbench">
+        <header class="section-heading">
+          <div>
+            <p class="eyebrow">Next on the workbench</p>
+            <h2>Not ready for the glass case.</h2>
+          </div>
+        </header>
+        <div class="project-list">
+          <article class="project">
+            <p class="project-index">03 / games</p>
+            <h3>Deposition, Scry &amp; Notation</h3>
+            <p>
+              Three experiments in story, cards, and mathematical action. They
+              will earn screenshots and individual notes as their visual
+              identities settle.
+            </p>
+            <span class="status">Effigy Studios · various stages</span>
+          </article>
+          <article class="project">
+            <p class="project-index">04 / home operations</p>
+            <h3>Webbery</h3>
+            <p>
+              Personal software for reminders and household operations.
+            </p>
+            <span class="status">Private · in development</span>
+          </article>
+        </div>
+      </section>
+
+      <aside class="collaboration-note">
+        <p class="eyebrow">Collaborate</p>
+        <h2>Want to compare notes?</h2>
+        <p>
+          I am glad to hear from people working on software, cloud systems,
+          product foundations, or related projects.
+        </p>
+        <a class="text-link" href="mailto:kevin@kevinblum.dev"
+          >Start a conversation →</a
+        >
+      </aside>
+    </main>
+
+    <footer class="site-footer shell">
+      <span>© <span data-current-year></span> Kevin Blum</span>
+      <span class="footer-links">
+        <a href="/writing.html">Writing, kept quietly</a>
+        <a href="/">Back home</a>
+      </span>
+    </footer>
+  </body>
+</html>

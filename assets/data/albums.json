@@ -1,0 +1,86 @@
+{
+  "iceland": {
+    "title": "Iceland",
+    "kicker": "Album 01 · 35mm film",
+    "description": "Waterfalls, black sand, geothermal ground, and the long road between them.",
+    "photos": [
+      { "file": "skogafoss1", "original": "images/iceland/skogafoss1.jpg", "width": 3089, "height": 2048, "caption": "Skógafoss", "alt": "Skógafoss and its surrounding landscape on film" },
+      { "file": "skogafoss2", "original": "images/iceland/skogafoss2.jpg", "width": 3089, "height": 2048, "caption": "Skógafoss", "alt": "Water and cliffs near Skógafoss" },
+      { "file": "skogafoss3", "original": "images/iceland/skogafoss3.jpg", "width": 3089, "height": 2048, "caption": "Skógafoss", "alt": "A film photograph near Skógafoss" },
+      { "file": "skogafoss4", "original": "images/iceland/skogafoss4.jpg", "width": 3089, "height": 2048, "caption": "Skógafoss", "alt": "Icelandic landscape near Skógafoss" },
+      { "file": "skogafoss5", "original": "images/iceland/skogafoss5.jpg", "width": 3089, "height": 2048, "caption": "Skógafoss", "alt": "Waterfall landscape at Skógafoss" },
+      { "file": "skogafoss6", "original": "images/iceland/skogafoss6.jpg", "width": 3089, "height": 2048, "caption": "Skógafoss", "alt": "A view around Skógafoss on film" },
+      { "file": "skogafoss7", "original": "images/iceland/skogafoss7.jpg", "width": 3089, "height": 2048, "caption": "Skógafoss", "alt": "A film frame from Skógafoss" },
+      { "file": "skogafoss8", "original": "images/iceland/skogafoss8.jpg", "width": 3089, "height": 2048, "caption": "Skógafoss", "alt": "The landscape surrounding Skógafoss" },
+      { "file": "skogafoss9", "original": "images/iceland/skogafoss9.jpg", "width": 3089, "height": 2048, "caption": "Skógafoss", "alt": "Skógafoss photographed on 35mm film" },
+      { "file": "skogafoss10", "original": "images/iceland/skogafoss10.jpg", "width": 3089, "height": 2048, "caption": "Skógafoss", "alt": "A view of Skógafoss" },
+      { "file": "skogafoss11", "original": "images/iceland/skogafoss11.jpg", "width": 3089, "height": 2048, "caption": "Skógafoss", "alt": "Mist and landscape at Skógafoss" },
+      { "file": "skogafoss12", "original": "images/iceland/skogafoss12.jpg", "width": 3089, "height": 2048, "caption": "Skógafoss", "alt": "Final frame from Skógafoss" },
+      { "file": "kirkjufell1", "original": "images/iceland/kirkjufell1.jpg", "width": 3089, "height": 2048, "caption": "Kirkjufell", "alt": "Kirkjufell mountain on film" },
+      { "file": "kirkjufell2", "original": "images/iceland/kirkjufell2.jpg", "width": 3089, "height": 2048, "caption": "Kirkjufell", "alt": "Landscape around Kirkjufell" },
+      { "file": "geysir1", "original": "images/iceland/geysir1.jpg", "width": 3089, "height": 2048, "caption": "Geysir", "alt": "Geothermal landscape at Geysir" },
+      { "file": "geysir2", "original": "images/iceland/geysir2.jpg", "width": 3089, "height": 2048, "caption": "Geysir", "alt": "Steam and earth at Geysir" },
+      { "file": "geysir3", "original": "images/iceland/geysir3.jpg", "width": 3089, "height": 2048, "caption": "Geysir", "alt": "A film photograph at Geysir" },
+      { "file": "geysir4", "original": "images/iceland/geysir4.jpg", "width": 3089, "height": 2048, "caption": "Geysir", "alt": "Geothermal ground in Iceland" },
+      { "file": "geysir5", "original": "images/iceland/geysir5.jpg", "width": 3089, "height": 2048, "caption": "Geysir", "alt": "The Geysir area on film" },
+      { "file": "gullfoss1", "original": "images/iceland/gullfoss1.jpg", "width": 3089, "height": 2048, "caption": "Gullfoss", "alt": "Gullfoss waterfall on film" },
+      { "file": "gullfoss2", "original": "images/iceland/gullfoss2.jpg", "width": 3089, "height": 2048, "caption": "Gullfoss", "alt": "Water rushing through Gullfoss" },
+      { "file": "gullfoss3", "original": "images/iceland/gullfoss3.jpg", "width": 3089, "height": 2048, "caption": "Gullfoss", "alt": "A view across Gullfoss" },
+      { "file": "gullfoss4", "original": "images/iceland/gullfoss4.jpg", "width": 3089, "height": 2048, "caption": "Gullfoss", "alt": "Cliffs and water at Gullfoss" },
+      { "file": "gullfoss5", "original": "images/iceland/gullfoss5.jpg", "width": 3089, "height": 2048, "caption": "Gullfoss", "alt": "Gullfoss landscape on 35mm film" },
+      { "file": "gullfoss6", "original": "images/iceland/gullfoss6.jpg", "width": 3089, "height": 2048, "caption": "Gullfoss", "alt": "A final view of Gullfoss" },
+      { "file": "seljalandsfoss1", "original": "images/iceland/seljalandsfoss1.jpg", "width": 3089, "height": 2048, "caption": "Seljalandsfoss", "alt": "Seljalandsfoss waterfall on film" },
+      { "file": "seljalandsfoss2", "original": "images/iceland/seljalandsfoss2.jpg", "width": 3089, "height": 2048, "caption": "Seljalandsfoss", "alt": "Landscape near Seljalandsfoss" },
+      { "file": "seljalandsfoss3", "original": "images/iceland/seljalandsfoss3.jpg", "width": 3089, "height": 2048, "caption": "Seljalandsfoss", "alt": "A film frame at Seljalandsfoss" },
+      { "file": "seljalandsfoss4", "original": "images/iceland/seljalandsfoss4.jpg", "width": 3089, "height": 2048, "caption": "Seljalandsfoss", "alt": "Water and rock at Seljalandsfoss" },
+      { "file": "seljalandsfoss5", "original": "images/iceland/seljalandsfoss5.jpg", "width": 3089, "height": 2048, "caption": "Seljalandsfoss", "alt": "Seljalandsfoss in the Icelandic landscape" },
+      { "file": "seljalandsfoss6", "original": "images/iceland/seljalandsfoss6.jpg", "width": 3089, "height": 2048, "caption": "Seljalandsfoss", "alt": "Mist around Seljalandsfoss" },
+      { "file": "seljalandsfoss7", "original": "images/iceland/seljalandsfoss7.jpg", "width": 3089, "height": 2048, "caption": "Seljalandsfoss", "alt": "A view near Seljalandsfoss" },
+      { "file": "seljalandsfoss8", "original": "images/iceland/seljalandsfoss8.jpg", "width": 3089, "height": 2048, "caption": "Seljalandsfoss", "alt": "Seljalandsfoss photographed on film" },
+      { "file": "seljalandsfoss9", "original": "images/iceland/seljalandsfoss9.jpg", "width": 3089, "height": 2048, "caption": "Seljalandsfoss", "alt": "Waterfall landscape at Seljalandsfoss" },
+      { "file": "seljalandsfoss10", "original": "images/iceland/seljalandsfoss10.jpg", "width": 3089, "height": 2048, "caption": "Seljalandsfoss", "alt": "A film photograph around Seljalandsfoss" },
+      { "file": "seljalandsfoss11", "original": "images/iceland/seljalandsfoss11.jpg", "width": 3089, "height": 2048, "caption": "Seljalandsfoss", "alt": "Final frame from Seljalandsfoss" },
+      { "file": "jokulsarlon1", "original": "images/iceland/jokulsarlon1.jpg", "width": 3089, "height": 2048, "caption": "Jökulsárlón", "alt": "Glacial lagoon at Jökulsárlón" },
+      { "file": "jokulsarlon2", "original": "images/iceland/jokulsarlon2.jpg", "width": 3089, "height": 2048, "caption": "Jökulsárlón", "alt": "Ice and water at Jökulsárlón" },
+      { "file": "jokulsarlon3", "original": "images/iceland/jokulsarlon3.jpg", "width": 3089, "height": 2048, "caption": "Jökulsárlón", "alt": "Jökulsárlón photographed on film" },
+      { "file": "jokulsarlon4", "original": "images/iceland/jokulsarlon4.jpg", "width": 3089, "height": 2048, "caption": "Jökulsárlón", "alt": "A film frame at Jökulsárlón" },
+      { "file": "jokulsarlon5", "original": "images/iceland/jokulsarlon5.jpg", "width": 3089, "height": 2048, "caption": "Jökulsárlón", "alt": "Glacial landscape at Jökulsárlón" },
+      { "file": "jokulsarlon6", "original": "images/iceland/jokulsarlon6.jpg", "width": 3089, "height": 2048, "caption": "Jökulsárlón", "alt": "A final view of Jökulsárlón" },
+      { "file": "diamondbeach1", "original": "images/iceland/diamondbeach1.jpg", "width": 3089, "height": 2048, "caption": "Diamond Beach", "alt": "People among ice on the black sand at Diamond Beach" },
+      { "file": "diamondbeach2", "original": "images/iceland/diamondbeach2.jpg", "width": 3089, "height": 2048, "caption": "Diamond Beach", "alt": "Ice resting on black sand at Diamond Beach" },
+      { "file": "diamondbeach3", "original": "images/iceland/diamondbeach3.jpg", "width": 3089, "height": 2048, "caption": "Diamond Beach", "alt": "The shoreline at Diamond Beach" },
+      { "file": "diamondbeach4", "original": "images/iceland/diamondbeach4.jpg", "width": 3089, "height": 2048, "caption": "Diamond Beach", "alt": "Black sand and ice on film" },
+      { "file": "diamondbeach5", "original": "images/iceland/diamondbeach5.jpg", "width": 3089, "height": 2048, "caption": "Diamond Beach", "alt": "A film photograph at Diamond Beach" },
+      { "file": "diamondbeach6", "original": "images/iceland/diamondbeach6.jpg", "width": 3089, "height": 2048, "caption": "Diamond Beach", "alt": "Final frame from Diamond Beach" }
+    ]
+  },
+  "peru": {
+    "title": "Peru",
+    "kicker": "Album 02 · selected frames",
+    "description": "A few frames from the highlands and the Peruvian Amazon.",
+    "photos": [
+      { "file": "pic03", "original": "images/pic03.jpg", "width": 3089, "height": 2048, "caption": "Machu Picchu", "alt": "Stonework and green mountains at Machu Picchu" },
+      { "file": "pic05", "original": "images/pic05.jpg", "width": 3089, "height": 2048, "caption": "Peruvian Amazon", "alt": "Buildings around a clearing in the Peruvian Amazon" },
+      { "file": "pic06", "original": "images/pic06.jpg", "width": 1818, "height": 1228, "caption": "Rock and water", "alt": "Rock formations meeting blue water" },
+      { "file": "pic07", "original": "images/pic07.jpg", "width": 2996, "height": 1741, "caption": "A small bridge", "alt": "A small suspension bridge among trees" }
+    ]
+  },
+  "burlington": {
+    "title": "Burlington",
+    "kicker": "Album 03 · Vermont",
+    "description": "Winter rooftops and Champlain College. The five heavily damaged frames from the recovered roll remain in the private archive as curios rather than portfolio selections.",
+    "photos": [
+      { "file": "pic04", "original": "images/pic04.jpg", "width": 1818, "height": 1228, "caption": "Burlington after dark", "alt": "Burlington rooftops and lights at night in black and white" },
+      { "file": "pic08", "original": "images/pic08.jpg", "width": 1818, "height": 1228, "caption": "Champlain", "alt": "Snow-covered Champlain College buildings overlooking Lake Champlain" }
+    ]
+  },
+  "home": {
+    "title": "At home",
+    "kicker": "Album 04 · small observations",
+    "description": "The camera pointed at whatever happened to be nearby.",
+    "photos": [
+      { "file": "pic01", "original": "images/pic01.jpg", "width": 2740, "height": 1830, "caption": "Cat", "alt": "A black cat photographed in soft black and white" },
+      { "file": "pic02", "original": "images/pic02.jpg", "width": 2740, "height": 1418, "caption": "Not the pair of shoes", "alt": "A reflection with shoes overhead, photographed in black and white" }
+    ]
+  }
+}

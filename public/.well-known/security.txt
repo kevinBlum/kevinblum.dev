@@ -1,0 +1,3 @@
+Contact: mailto:kevin@kevinblum.dev
+Canonical: https://kevinblum.dev/.well-known/security.txt
+Preferred-Languages: en

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="A film photography album by Kevin Blum."
+    />
+    <meta name="theme-color" content="#18201d" />
+    <title>Film album — Kevin Blum</title>
+    <link rel="stylesheet" href="assets/css/site.css" />
+    <script type="module" src="assets/js/site.js"></script>
+    <script type="module" src="assets/js/gallery.js"></script>
+  </head>
+  <body data-gallery-page>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a class="wordmark" href="/">Kevin Blum</a>
+      <nav aria-label="Primary navigation">
+        <a href="/work.html">Work</a>
+        <a aria-current="page" href="/photography.html">Photography</a>
+        <a href="/#about">About</a>
+      </nav>
+    </header>
+
+    <main id="main" class="shell gallery-page">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/photography.html">Photography</a><span aria-hidden="true">/</span
+        ><span data-album-breadcrumb>Album</span>
+      </nav>
+
+      <header class="gallery-intro">
+        <div>
+          <p class="eyebrow" data-album-kicker>Film album</p>
+          <h1 data-album-title>Loading album…</h1>
+        </div>
+        <p data-album-description></p>
+      </header>
+
+      <div class="gallery-status" role="status" aria-live="polite">
+        <span data-album-count></span>
+        <span>Tap or click a frame to view it larger.</span>
+      </div>
+
+      <section class="photo-grid" data-photo-grid aria-label="Photographs"></section>
+    </main>
+
+    <dialog class="photo-viewer" data-photo-viewer aria-label="Photo viewer">
+      <div class="viewer-bar">
+        <p data-viewer-caption></p>
+        <button type="button" data-viewer-close aria-label="Close photograph">
+          Close
+        </button>
+      </div>
+      <div class="viewer-stage">
+        <button type="button" data-viewer-previous aria-label="Previous photograph">
+          ←
+        </button>
+        <img data-viewer-image alt="" />
+        <button type="button" data-viewer-next aria-label="Next photograph">→</button>
+      </div>
+    </dialog>
+
+    <footer class="site-footer shell">
+      <span>© <span data-current-year></span> Kevin Blum</span>
+      <a href="/photography.html">Back to all albums</a>
+    </footer>
+  </body>
+</html>
